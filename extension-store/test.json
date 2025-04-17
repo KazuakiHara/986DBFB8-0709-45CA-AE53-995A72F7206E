@@ -1,0 +1,17 @@
+{
+    "extensions": [
+      {
+        "id": "example-plugin",
+        "name": "Example Plugin",
+        "version": "1.2.3",
+        "description": "This is a sample plugin.",
+        "download_url": "https://github.com/username/repo/releases/download/v1.2.3/ExamplePlugin.zip"
+      },
+      {
+        "id": "another-plugin",
+        "name": "Another Plugin",
+        "version": "0.9.1",
+        "download_url": "https://github.com/username/another-repo/releases/download/v0.9.1/AnotherPlugin.zip"
+      }
+    ]
+  }
